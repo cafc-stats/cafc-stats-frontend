@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import StatsPage from '../components/StatsPage.vue'
+import StatsPage from '../components/StatsPage.vue';
 </script>
 
 <template>
-  <main>
-    <StatsPage />
-  </main>
+    <main>
+        <StatsPage />
+    </main>
 </template>

@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import LeagueTable from '../components/LeagueTable.vue'
+import LeagueTable from '../components/LeagueTable.vue';
 </script>
 
 <template>
-  <main>
-    <LeagueTable />
-  </main>
+    <main>
+        <LeagueTable />
+    </main>
 </template>
